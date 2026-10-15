@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Levannhat0904">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=42BC2A&center=true&vCenter=true&width=600&lines=Software+Engineer;Web+%E2%80%A2+Mobile+%E2%80%A2+Backend;TypeScript+%26+Go+enthusiast;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=42BC2A&center=true&vCenter=true&width=600&lines=Software+Engineer;Web+%E2%80%A2+Mobile+%E2%80%A2+Backend;TypeScript+enthusiast;Always+learning+new+things" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,9 +20,9 @@
 
 <p><em>I'm a Software Engineer who enjoys turning ideas into products people actually use. I build web, mobile and backend systems end to end, care about clean typed code and fast feedback loops, and spend my free time exploring new technologies.</em></p>
 
-- 🔭 Building web apps with **React / Next.js**, mobile apps with **React Native / Flutter**
-- ⚙️ Shipping backend services with **NestJS** and **Go** on **PostgreSQL**
-- 💬 Ask me about TypeScript, React, Next.js, NestJS, Go
+- 🔭 Building web apps with **React / Next.js**, mobile apps with **React Native / Expo**
+- ⚙️ Shipping backend services with **NestJS** on **PostgreSQL**
+- 💬 Ask me about TypeScript, React, Next.js, NestJS
 
 ### 🧑‍💻 More about me
 
@@ -31,7 +31,7 @@ const nhat = {
   role: "Software Engineer",
   specialty: "Full-stack (Web • Mobile • Backend)",
   whatIDo: "I build cross-platform mobile apps, web apps and the APIs behind them",
-  languages: ["TypeScript", "JavaScript", "Go", "Dart"],
+  languages: ["TypeScript", "JavaScript", "Dart"],
   speaks: ["Vietnamese", "English"],
 };
 ```
@@ -39,12 +39,12 @@ const nhat = {
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,go,dart,react,nextjs,vue,vite,tailwind,flutter,nestjs,postgres,sqlite,supabase,firebase,docker,jest,vitest&perline=9" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,dart,react,nextjs,vue,vite,tailwind,nestjs,postgres,sqlite,supabase,firebase,docker,jest,vitest&perline=8" alt="Tech stack icons" />
 </p>
 
 **Languages**
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 
 **Frontend**
 
@@ -52,11 +52,11 @@ const nhat = {
 
 **Mobile**
 
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Zalo_Mini_App-0068FF?style=for-the-badge&logo=zalo&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" /> <img src="https://img.shields.io/badge/Zalo_Mini_App-0068FF?style=for-the-badge&logo=zalo&logoColor=white" />
 
 **Backend**
 
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" /> <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" /> <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white" /> <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" /> <img src="https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white" />
 
 **Database & BaaS**
 
@@ -92,9 +92,9 @@ const nhat = {
 
 Xin chào, mình là **Lê Văn Nhật**, một **Kỹ sư phần mềm**. Mình thích biến ý tưởng thành sản phẩm mà người dùng thực sự sử dụng, và xây dựng trọn vẹn cả web, mobile lẫn backend.
 
-- 🔭 Làm web với **React / Next.js**, mobile với **React Native / Flutter**
-- ⚙️ Xây dựng backend với **NestJS** và **Go** trên **PostgreSQL**
-- 💬 Hỏi mình về TypeScript, React, Next.js, NestJS, Go
+- 🔭 Làm web với **React / Next.js**, mobile với **React Native / Expo**
+- ⚙️ Xây dựng backend với **NestJS** trên **PostgreSQL**
+- 💬 Hỏi mình về TypeScript, React, Next.js, NestJS
 - 🌐 Portfolio: [levannhat0904.github.io](https://levannhat0904.github.io)
 
 </details>
