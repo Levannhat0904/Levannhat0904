@@ -39,7 +39,7 @@ const nhat = {
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,vite,tailwind,nestjs,graphql,prisma,postgres,mongodb,sqlite,supabase,firebase,docker,nginx,jenkins,jest,vitest&perline=8" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,vite,tailwind,nestjs,graphql,prisma,postgres,mongodb,sqlite,supabase,firebase,docker,nginx,jenkins,jest,vitest&perline=10" alt="Tech stack icons" />
 </p>
 
 **Languages**
