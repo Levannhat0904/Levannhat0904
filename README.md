@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/your-handle"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   -->
-  <img src="https://komarev.com/ghpvc/?username=Levannhat0904&style=for-the-badge&color=42bc2a&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://github.com/Levannhat0904"><img src="https://komarev.com/ghpvc/?username=Levannhat0904&style=for-the-badge&color=42bc2a&label=PROFILE+VIEWS" alt="Profile views" /></a>
 </p>
 
 ---
